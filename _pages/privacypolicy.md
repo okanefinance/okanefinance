@@ -8,7 +8,7 @@ include_in_header: false
 September 6 2023
 
 # Privacy Policy
-Okane built the Okane app as a Commercial app. This SERVICE is provided by Okane and is intended for use as is.
+Okane built the Okane Budget app as a Commercial app. This SERVICE is provided by Okane and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
