@@ -20,7 +20,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 <br>
 
 ## Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email, Logging events for Google Analytics. In addition, the app may ask to access your Google drives data. This is for the sole purpose of being able to load data created from previous app uses. This data is not stored on Okane servers, nor is it sold for marketing purposes.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Email, Logging events for Google Analytics. In addition, the app may ask to access your Google spreadsheets data. This is for the sole purpose of being able to load spreadsheets created from previous app uses. This data is not stored on Okane servers, nor is it sold for marketing purposes.
 
 The app does use third-party services that may collect information used to identify you.
 
