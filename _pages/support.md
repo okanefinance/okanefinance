@@ -196,7 +196,8 @@ permalink: /support/
         <div class="faq-answer">
             Yes, your privacy and data security are our top priorities. Okane Budgeting stores all your financial
             data in your own Google Sheets spreadsheet, which remains in your Google Drive under your control.
-            We do not store, copy, or have access to your financial data on our servers. The app only accesses
+            For paying users with transaction sync enabled, we temporarily store transaction information on our servers
+            until you confirm the transactions in the app, after which the data is removed. The app only accesses
             your spreadsheet data when you're actively using it, and all communication with Google's servers
             is encrypted. For more details, please review our Privacy Policy.
         </div>
